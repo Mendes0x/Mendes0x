@@ -6,7 +6,7 @@ I build web applications, bots, and developer tools — with a focus on **useful
 
 Based in Brazil. Always learning, always refining.
 
-[Explore my repositories](https://github.com/Mendes0x?tab=repositories) · [Selected work](#selected-work)
+**[Visit my portfolio ↗](https://mendes0x.github.io/My-portfolio/)** · [Explore my repositories](https://github.com/Mendes0x?tab=repositories) · [Selected work](#selected-work)
 
 ---
 
@@ -20,8 +20,8 @@ I value practical solutions over unnecessary complexity.
 
 ## Selected work
 
-**01 · [Personal Portfolio](https://github.com/Mendes0x/My-portfolio)**  
-My personal website, featuring an editorial design, selected projects, tech stack, and contact details.  
+**01 · [Personal Portfolio](https://mendes0x.github.io/My-portfolio/)**  
+A bilingual, responsive website showcasing my work, skills, and contact information. [Live website ↗](https://mendes0x.github.io/My-portfolio/) · [Source code](https://github.com/Mendes0x/My-portfolio).  
 `HTML` · `CSS` · `JavaScript`
 
 **02 · [MediaDock](https://github.com/Mendes0x/web-site-dowloader-mp3)**  
