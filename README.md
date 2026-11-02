@@ -20,15 +20,19 @@ I value practical solutions over unnecessary complexity.
 
 ## Selected work
 
-**01 · [MediaDock](https://github.com/Mendes0x/web-site-dowloader-mp3)**  
+**01 · [Personal Portfolio](https://github.com/Mendes0x/My-portfolio)**  
+My personal website, featuring an editorial design, selected projects, tech stack, and contact details.  
+`HTML` · `CSS` · `JavaScript`
+
+**02 · [MediaDock](https://github.com/Mendes0x/web-site-dowloader-mp3)**  
 A local-first media download manager with background jobs, live progress, and a dedicated file library.  
 `Node.js` · `Express` · `yt-dlp`
 
-**02 · [Bot Framework Dashboard](https://github.com/Mendes0x/bot-framework-dashboard)**  
+**03 · [Bot Framework Dashboard](https://github.com/Mendes0x/bot-framework-dashboard)**  
 A lightweight dashboard for Discord bots, covering status, commands, and runtime information.  
 `JavaScript` · `Node.js` · `Express`
 
-**03 · [VPN Manager](https://github.com/Mendes0x/vpn-tor)**  
+**04 · [VPN Manager](https://github.com/Mendes0x/vpn-tor)**  
 A Linux command-line utility for managing existing OpenVPN and NetworkManager connections.  
 `Bash` · `Linux` · `OpenVPN`
 
