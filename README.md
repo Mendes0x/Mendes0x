@@ -14,7 +14,6 @@ Based in Brazil. Always learning, always refining.
 
 | Project | Description | Stack |
 |---|---|---|
-| [Personal Portfolio](https://github.com/Mendes0x/My-portfolio) | Bilingual, responsive portfolio for my work, skills, and contact information. [Live site ↗](https://mendes0x.github.io/My-portfolio/) | HTML · CSS · JavaScript |
 | [MediaDock](https://github.com/Mendes0x/web-site-dowloader-mp3) | Local-first media downloader with background jobs, live progress, and a file library. | Node.js · Express · yt-dlp |
 | [Bot Framework Dashboard](https://github.com/Mendes0x/bot-framework-dashboard) | Dashboard for Discord bot status, metrics, commands, and modules. | JavaScript · Node.js · Express |
 | [VPN Manager](https://github.com/Mendes0x/vpn-tor) | Linux utility for managing existing OpenVPN and NetworkManager connections. | Bash · Linux · OpenVPN |
