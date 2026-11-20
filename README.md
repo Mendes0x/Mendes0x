@@ -146,7 +146,7 @@ SQLite and relational data modeling for apps and tools
 
 <div align="center">
 
-<a href="https://github.com/Mendes0x/elaria"><img src="https://img.shields.io/badge/Community%20Bot-Elaria-5BA7A7?style=for-the-badge&logo=discord&logoColor=white" alt="Elaria community bot" /></a>
+<a href="[https://github.com/Mendes0x/elaria](https://elaria.elariabotoficial.workers.dev/)"><img src="https://img.shields.io/badge/Community%20Bot-Elaria-5BA7A7?style=for-the-badge&logo=discord&logoColor=white" alt="Elaria community bot" /></a>
 <a href="https://github.com/Mendes0x/bot-framework-dashboard"><img src="https://img.shields.io/badge/Bot%20Dashboard-Node.js-F2C94C?style=for-the-badge&logo=nodedotjs&logoColor=0D1117" alt="Bot Framework Dashboard" /></a>
 <a href="https://github.com/Mendes0x/Network-Toolkit"><img src="https://img.shields.io/badge/Network%20Toolkit-Linux-5BA7A7?style=for-the-badge&logo=linux&logoColor=white" alt="Network Toolkit" /></a>
 
