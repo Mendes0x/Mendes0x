@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:5BA7A7,100:F2C94C&height=240&section=header&text=Mendes0x&fontSize=76&fontColor=F5E6C8&fontAlign=50&fontAlignY=36&animation=twinkling&desc=Bots%20%C2%B7%20Tools%20%C2%B7%20Automation%20%C2%B7%20Linux&descSize=20&descAlignY=58" alt="Mendes0x" />
+<img src="assets/banner.svg" alt="Mendes0x — Bots, Tools, Automation, Linux" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=800&color=F2C94C&center=true&vCenter=true&width=760&height=40&lines=I+create+bots+and+tools+that+make+life+easier;JavaScript+%C2%B7+Node.js+%C2%B7+HTML%2FCSS;Linux+server+management+%26+network+tools;Always+learning%2C+always+building" alt="I create bots and tools that make life easier" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=900&color=F2C94C&center=true&vCenter=true&width=760&height=40&lines=I+create+bots+and+tools+that+make+life+easier;JavaScript+%C2%B7+Node.js+%C2%B7+HTML%2FCSS;Linux+server+management+%26+network+tools;Always+learning%2C+always+building" alt="I create bots and tools that make life easier" />
 
 <br />
 
@@ -16,25 +16,37 @@
 <img src="https://img.shields.io/github/followers/Mendes0x?style=flat-square&color=5BA7A7&labelColor=0D1117" alt="Followers" />
 <img src="https://img.shields.io/github/stars/Mendes0x?style=flat-square&color=F2C94C&labelColor=0D1117" alt="Stars" />
 
+<br /><br />
+
+<a href="#-about"><img src="https://img.shields.io/badge/About-5BA7A7?style=flat-square&labelColor=0D1117" alt="About" /></a>
+<a href="#-focus-areas"><img src="https://img.shields.io/badge/Focus-F2C94C?style=flat-square&labelColor=0D1117" alt="Focus" /></a>
+<a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-5BA7A7?style=flat-square&labelColor=0D1117" alt="Projects" /></a>
+<a href="#-tech-stack"><img src="https://img.shields.io/badge/Stack-F2C94C?style=flat-square&labelColor=0D1117" alt="Stack" /></a>
+<a href="#-achievements"><img src="https://img.shields.io/badge/Achievements-5BA7A7?style=flat-square&labelColor=0D1117" alt="Achievements" /></a>
+<a href="#-activity"><img src="https://img.shields.io/badge/Activity-F2C94C?style=flat-square&labelColor=0D1117" alt="Activity" /></a>
+<a href="#-contact"><img src="https://img.shields.io/badge/Contact-5BA7A7?style=flat-square&labelColor=0D1117" alt="Contact" /></a>
+
 </div>
 
-<br />
+---
 
 ## 📖 About
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="60%" valign="top">
 
 Most of my projects start with a practical problem. I turn small ideas into useful tools, keeping interfaces clear and code straightforward.
 
-- 🌎 **Based in** Brazil
-- ⚙️ **Main stack** JavaScript · Node.js · HTML/CSS · Bash
-- 🐧 **Environment** Linux, from the terminal to server management
-- 🎯 **Approach** build thoughtfully, keep it simple, improve continuously
+| | |
+|---|---|
+| 🌎 **Based in** | Brazil |
+| ⚙️ **Main stack** | JavaScript · Node.js · HTML/CSS · Bash |
+| 🐧 **Environment** | Linux, from the terminal to server management |
+| 🎯 **Approach** | Build thoughtfully · keep it simple · improve continuously |
 
 </td>
-<td width="38%" valign="top">
+<td width="40%" valign="top">
 
 ```bash
 $ whoami
@@ -53,8 +65,6 @@ $ ./keep_building.sh
 </td>
 </tr>
 </table>
-
-<br />
 
 ## 🧭 Focus Areas
 
@@ -75,60 +85,31 @@ Server management, terminal utilities and network diagnostics
 </tr>
 </table>
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Mendes0x/web-site-dowloader-mp3"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Mendes0x&repo=web-site-dowloader-mp3&description_lines_count=3&bg_color=0D1117&title_color=F2C94C&text_color=F5E6C8&icon_color=5BA7A7&border_color=5BA7A7" alt="MediaDock" /></a>
+<a href="https://github.com/Mendes0x/bot-framework-dashboard"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Mendes0x&repo=bot-framework-dashboard&description_lines_count=3&bg_color=0D1117&title_color=F2C94C&text_color=F5E6C8&icon_color=5BA7A7&border_color=5BA7A7" alt="Bot Framework Dashboard" /></a>
+<a href="https://github.com/Mendes0x/vpn-tor"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Mendes0x&repo=vpn-tor&description_lines_count=3&bg_color=0D1117&title_color=F2C94C&text_color=F5E6C8&icon_color=5BA7A7&border_color=5BA7A7" alt="VPN Manager" /></a>
+<a href="https://github.com/Mendes0x/Network-Toolkit"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Mendes0x&repo=Network-Toolkit&description_lines_count=3&bg_color=0D1117&title_color=F2C94C&text_color=F5E6C8&icon_color=5BA7A7&border_color=5BA7A7" alt="Network Toolkit" /></a>
+<a href="https://github.com/Mendes0x/youtube-downloader"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Mendes0x&repo=youtube-downloader&description_lines_count=3&bg_color=0D1117&title_color=F2C94C&text_color=F5E6C8&icon_color=5BA7A7&border_color=5BA7A7" alt="Auto YouTube Downloader" /></a>
+
+</div>
+
+<details>
+<summary><b>📋 Project overview (click to expand)</b></summary>
 <br />
 
-## 🚀 Selected Projects
+| Project | Category | Stack |
+|---|---|---|
+| 📼 **MediaDock** — media downloader with background jobs, live progress and file library | Web app | Node.js · Express · yt-dlp |
+| 🤖 **Bot Framework Dashboard** — Discord bot status, metrics, commands and modules | Bots | JavaScript · Node.js · Express |
+| 🔒 **VPN Manager** — manages OpenVPN and NetworkManager connections | Linux utility | Bash · Linux · OpenVPN |
+| 🌐 **Network Toolkit** — menu-based diagnostics for Termux and Debian/Ubuntu | Networking | Bash · Nmap · Linux |
+| 🎬 **Auto YouTube Downloader** — interactive video and audio downloader | CLI tool | Bash · yt-dlp · FFmpeg |
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📼 [MediaDock](https://github.com/Mendes0x/web-site-dowloader-mp3)
-Local-first media downloader with background jobs, live progress and a file library.
-
-`Node.js` `Express` `yt-dlp`
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 [Bot Framework Dashboard](https://github.com/Mendes0x/bot-framework-dashboard)
-Dashboard for Discord bot status, metrics, commands and modules.
-
-`JavaScript` `Node.js` `Express`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔒 [VPN Manager](https://github.com/Mendes0x/vpn-tor)
-Linux utility for managing existing OpenVPN and NetworkManager connections.
-
-`Bash` `Linux` `OpenVPN`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 [Network Toolkit](https://github.com/Mendes0x/Network-Toolkit)
-Menu-based network diagnostics for Termux and Debian/Ubuntu Linux.
-
-`Bash` `Nmap` `Linux`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🎬 [Auto YouTube Downloader](https://github.com/Mendes0x/youtube-downloader)
-Interactive Bash tool for downloading video and audio with yt-dlp.
-
-`Bash` `yt-dlp` `FFmpeg`
-
-</td>
-</tr>
-</table>
-
-<br />
+</details>
 
 ## 🧰 Tech Stack
 
@@ -148,18 +129,16 @@ Interactive Bash tool for downloading video and audio with yt-dlp.
 
 </details>
 
-<br />
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mendes0x&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
+</div>
 
 ## 📊 Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mendes0x&background=0D1117&ring=F2C94C&fire=5BA7A7&currStreakLabel=F5E6C8&sideLabels=F5E6C8&currStreakNum=F2C94C&sideNums=F2C94C&dates=F5E6C8&stroke=5BA7A7&border=5BA7A7&hide_border=false" alt="Streak stats" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mendes0x&bg_color=0D1117&color=F5E6C8&line=F2C94C&point=5BA7A7&area=true&area_color=5BA7A7&hide_border=true&title_color=F2C94C" alt="Contribution graph" />
+  <img src="https://streak-stats.demolab.com?user=Mendes0x&background=0D1117&ring=F2C94C&fire=5BA7A7&currStreakLabel=F5E6C8&sideLabels=F5E6C8&currStreakNum=F2C94C&sideNums=F2C94C&dates=F5E6C8&stroke=5BA7A7&border=5BA7A7" alt="Streak stats" />
 </div>
 
 <br />
@@ -172,10 +151,14 @@ Interactive Bash tool for downloading video and audio with yt-dlp.
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mendes0x/Mendes0x/output/github-snake-dark.svg" alt="Snake eating my contributions" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mendes0x&bg_color=0D1117&color=F5E6C8&line=F2C94C&point=5BA7A7&area=true&area_color=5BA7A7&hide_border=true&title_color=F2C94C" alt="Contribution graph" />
 </div>
 
 <br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mendes0x/Mendes0x/output/github-snake-dark.svg" alt="Snake eating my contributions" />
+</div>
 
 ## 📫 Contact
 
