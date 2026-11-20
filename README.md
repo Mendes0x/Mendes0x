@@ -113,9 +113,37 @@ Server management, terminal utilities and network diagnostics
 
 ## 🧰 Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,html,css,bash,linux,git,github,discord&theme=dark" alt="Tech stack" />
-</div>
+<table>
+<tr>
+<td width="22%"><b>Languages</b></td>
+<td><img height="64" src="https://skillicons.dev/icons?i=python,js,ts,cs,rust,html,css&theme=dark" alt="Python, JavaScript, TypeScript, C sharp, Rust, HTML and CSS" /></td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td><img height="64" src="https://skillicons.dev/icons?i=nodejs,express,discordjs&theme=dark" alt="Node.js, Express and Discord.js" /></td>
+</tr>
+<tr>
+<td><b>Databases</b></td>
+<td>
+<img height="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" />
+<img height="34" src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=5BA7A7" alt="SQL" />
+</td>
+</tr>
+<tr>
+<td><b>Systems &amp; Networking</b></td>
+<td><img height="64" src="https://skillicons.dev/icons?i=linux,bash&theme=dark" alt="Linux and Bash" /><br />
+<img src="https://img.shields.io/badge/Nmap-0D1117?style=flat-square&logo=nmap&logoColor=5BA7A7" alt="Nmap" />
+<img src="https://img.shields.io/badge/OpenVPN-0D1117?style=flat-square&logo=openvpn&logoColor=F2C94C" alt="OpenVPN" />
+</td>
+</tr>
+<tr>
+<td><b>Tooling</b></td>
+<td><img height="64" src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git and GitHub" /><br />
+<img src="https://img.shields.io/badge/FFmpeg-0D1117?style=flat-square&logo=ffmpeg&logoColor=F5E6C8" alt="FFmpeg" />
+<img src="https://img.shields.io/badge/yt--dlp-0D1117?style=flat-square&logo=youtube&logoColor=F2C94C" alt="yt-dlp" />
+</td>
+</tr>
+</table>
 
 <details>
 <summary><b>🔧 Tools &amp; utilities (click to expand)</b></summary>
@@ -129,10 +157,14 @@ Server management, terminal utilities and network diagnostics
 
 </details>
 
-## 🏆 Achievements
+## 🏆 Project Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mendes0x&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
+
+<a href="https://github.com/Mendes0x/elaria"><img src="https://img.shields.io/badge/Community%20Bot-Elaria-5BA7A7?style=for-the-badge&logo=discord&logoColor=white" alt="Elaria community bot" /></a>
+<a href="https://github.com/Mendes0x/bot-framework-dashboard"><img src="https://img.shields.io/badge/Bot%20Dashboard-Node.js-F2C94C?style=for-the-badge&logo=nodedotjs&logoColor=0D1117" alt="Bot Framework Dashboard" /></a>
+<a href="https://github.com/Mendes0x/Network-Toolkit"><img src="https://img.shields.io/badge/Network%20Toolkit-Linux-5BA7A7?style=for-the-badge&logo=linux&logoColor=white" alt="Network Toolkit" /></a>
+
 </div>
 
 ## 📊 Activity
