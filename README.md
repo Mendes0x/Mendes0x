@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" alt="Mendes0x — Bots, Tools, Automation, Linux" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=900&color=F2C94C&center=true&vCenter=true&width=760&height=40&lines=I+create+bots+and+tools+that+make+life+easier;JavaScript+%C2%B7+Node.js+%C2%B7+HTML%2FCSS;Linux+server+management+%26+network+tools;Always+learning%2C+always+building" alt="I create bots and tools that make life easier" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=900&color=F2C94C&center=true&vCenter=true&width=760&height=40&lines=I+create+bots+and+tools+that+make+life+easier;Python+%C2%B7+JavaScript+%C2%B7+TypeScript+%C2%B7+Rust;Linux+server+management+%26+network+tools;Always+learning%2C+always+building" alt="I create bots and tools that make life easier" />
 
 <br />
 
@@ -22,7 +22,7 @@
 <a href="#-focus-areas"><img src="https://img.shields.io/badge/Focus-F2C94C?style=flat-square&labelColor=0D1117" alt="Focus" /></a>
 <a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-5BA7A7?style=flat-square&labelColor=0D1117" alt="Projects" /></a>
 <a href="#-tech-stack"><img src="https://img.shields.io/badge/Stack-F2C94C?style=flat-square&labelColor=0D1117" alt="Stack" /></a>
-<a href="#-achievements"><img src="https://img.shields.io/badge/Achievements-5BA7A7?style=flat-square&labelColor=0D1117" alt="Achievements" /></a>
+<a href="#-project-highlights"><img src="https://img.shields.io/badge/Highlights-5BA7A7?style=flat-square&labelColor=0D1117" alt="Highlights" /></a>
 <a href="#-activity"><img src="https://img.shields.io/badge/Activity-F2C94C?style=flat-square&labelColor=0D1117" alt="Activity" /></a>
 <a href="#-contact"><img src="https://img.shields.io/badge/Contact-5BA7A7?style=flat-square&labelColor=0D1117" alt="Contact" /></a>
 
@@ -41,7 +41,8 @@ Most of my projects start with a practical problem. I turn small ideas into usef
 | | |
 |---|---|
 | 🌎 **Based in** | Brazil |
-| ⚙️ **Main stack** | JavaScript · Node.js · HTML/CSS · Bash |
+| ⚙️ **Main stack** | Python · JavaScript · TypeScript · Bash · Rust |
+| 🗄️ **Data** | SQLite and relational databases |
 | 🐧 **Environment** | Linux, from the terminal to server management |
 | 🎯 **Approach** | Build thoughtfully · keep it simple · improve continuously |
 
@@ -57,6 +58,7 @@ bots
 automation
 linux tools
 web apps
+databases
 
 $ ./keep_building.sh
 > status: online ✔
@@ -70,17 +72,21 @@ $ ./keep_building.sh
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <h3>🌐 Web &amp; Backend</h3>
 Responsive sites, Node.js applications and APIs
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <h3>🤖 Bots &amp; Automation</h3>
 Discord bots, dashboards and tools that simplify everyday tasks
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <h3>🐧 Linux &amp; Servers</h3>
 Server management, terminal utilities and network diagnostics
+</td>
+<td align="center" width="25%">
+<h3>🗄️ Databases</h3>
+SQLite and relational data modeling for apps and tools
 </td>
 </tr>
 </table>
@@ -116,7 +122,7 @@ Server management, terminal utilities and network diagnostics
 <table>
 <tr>
 <td width="22%"><b>Languages</b></td>
-<td><img height="64" src="https://skillicons.dev/icons?i=python,js,ts,cs,rust,html,css&theme=dark" alt="Python, JavaScript, TypeScript, C sharp, Rust, HTML and CSS" /></td>
+<td><img height="64" src="https://skillicons.dev/icons?i=py,js,ts,bash,cs,rust,html,css&theme=dark" alt="Python, JavaScript, TypeScript, Bash, C sharp, Rust, HTML and CSS" /></td>
 </tr>
 <tr>
 <td><b>Backend</b></td>
@@ -124,38 +130,17 @@ Server management, terminal utilities and network diagnostics
 </tr>
 <tr>
 <td><b>Databases</b></td>
-<td>
-<img height="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" />
-<img height="34" src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=5BA7A7" alt="SQL" />
-</td>
+<td><img height="64" src="assets/icons-db.svg" alt="SQLite, relational databases and SQL" /></td>
 </tr>
 <tr>
 <td><b>Systems &amp; Networking</b></td>
-<td><img height="64" src="https://skillicons.dev/icons?i=linux,bash&theme=dark" alt="Linux and Bash" /><br />
-<img src="https://img.shields.io/badge/Nmap-0D1117?style=flat-square&logo=nmap&logoColor=5BA7A7" alt="Nmap" />
-<img src="https://img.shields.io/badge/OpenVPN-0D1117?style=flat-square&logo=openvpn&logoColor=F2C94C" alt="OpenVPN" />
-</td>
+<td><img height="64" src="https://skillicons.dev/icons?i=linux,debian,ubuntu&theme=dark" alt="Linux, Debian and Ubuntu" /><img height="64" src="assets/icons-net.svg" alt="Nmap and OpenVPN" /></td>
 </tr>
 <tr>
 <td><b>Tooling</b></td>
-<td><img height="64" src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git and GitHub" /><br />
-<img src="https://img.shields.io/badge/FFmpeg-0D1117?style=flat-square&logo=ffmpeg&logoColor=F5E6C8" alt="FFmpeg" />
-<img src="https://img.shields.io/badge/yt--dlp-0D1117?style=flat-square&logo=youtube&logoColor=F2C94C" alt="yt-dlp" />
-</td>
+<td><img height="64" src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git and GitHub" /><img height="64" src="assets/icons-media.svg" alt="FFmpeg and yt-dlp" /></td>
 </tr>
 </table>
-
-<details>
-<summary><b>🔧 Tools &amp; utilities (click to expand)</b></summary>
-<br />
-
-<img src="https://img.shields.io/badge/yt--dlp-0D1117?style=flat-square&logo=youtube&logoColor=F2C94C" alt="yt-dlp" />
-<img src="https://img.shields.io/badge/FFmpeg-0D1117?style=flat-square&logo=ffmpeg&logoColor=F5E6C8" alt="FFmpeg" />
-<img src="https://img.shields.io/badge/Nmap-0D1117?style=flat-square&logo=nmap&logoColor=5BA7A7" alt="Nmap" />
-<img src="https://img.shields.io/badge/OpenVPN-0D1117?style=flat-square&logo=openvpn&logoColor=F2C94C" alt="OpenVPN" />
-<img src="https://img.shields.io/badge/Discord.js-0D1117?style=flat-square&logo=discord&logoColor=5BA7A7" alt="Discord.js" />
-
-</details>
 
 ## 🏆 Project Highlights
 
