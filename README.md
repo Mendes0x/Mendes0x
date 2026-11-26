@@ -1,35 +1,31 @@
 <div align="center">
 
-<img src="banner.png" alt="Dark-haired character with red lips, art inspired by Milk Outside a Bag of Milk" width="320">
-
-# milk outside a bag of milk outside a bag of me...
-
-*(how do you feel?)*
+<img src="banner.svg" alt="Dark maroon banner with the name mendes0x" width="100%">
 
 </div>
 
 ---
 
-### 🥛 who i am
+### 🥛 about
 
-> hi. i'm **<your name>**.
+> hi. i'm **mendes0x**.
 > i write code. sometimes it works.
 > *(that's weird, isn't it?)*
 
 ### 🩸 what i do
 
-- <what you do / main stack>
-- <something else>
-- <something else>
+- TODO: main stack or focus
+- TODO: something you're building
+- TODO: something you're learning
 
-### 🖤 what i'm up to
+### 🖤 right now
 
-> right now: <current project or study>
-> *(still, you're anxious, aren't you?)*
+> TODO: current project or study
+> *(still, you're a little anxious, aren't you?)*
 
 ### 📫 contact
 
-- <link or e-mail>
+- TODO: e-mail or link
 
 ---
 
